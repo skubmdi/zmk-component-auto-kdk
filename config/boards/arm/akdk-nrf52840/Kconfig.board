@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: MIT
+
+config BOARD_AKDK_NRF52840
+	bool "akdk_nrf52840"
+	depends on SOC_NRF52840_QIAA
