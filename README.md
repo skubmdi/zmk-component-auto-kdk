@@ -22,6 +22,8 @@ Please adjust the shield name to match your own keyboard.
 
 ```yaml
 include:
+  - board: akdk_rp2040
+    shield: akdk-wired
   - board: akdk_nrf52840
-    shield: akdk
+    shield: akdk-wireless
 ```
