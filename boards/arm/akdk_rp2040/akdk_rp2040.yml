@@ -1,0 +1,11 @@
+identifier: akdk_rp2040
+name: akdk_rp2040
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+supported:
+  - usb_device
+  - pwm
+  - watchdog
