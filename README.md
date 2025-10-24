@@ -12,7 +12,7 @@ manifest:
     - name: skubmdi
       url-base: https://github.com/skubmdi
   projects:
-    - name: zmk-component-akdk-nrf52840
+    - name: zmk-component-auto-kdk
       remote: skubmdi
 ```
 
